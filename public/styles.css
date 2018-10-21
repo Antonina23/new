@@ -1,3 +1,10 @@
-body {
+h1 {
 	font-family: Arial;
+	background-color: yellow;
+
+}
+
+.something {
+	background-color: blue;
+	color: white;
 }
